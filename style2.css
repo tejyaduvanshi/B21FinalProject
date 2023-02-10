@@ -1,0 +1,98 @@
+
+@media(max-width:500px ){
+
+    #tnav>h1{
+        font-size: 4.5vw;
+    }
+    #page1 #tnav #shades #colors{
+        width: 12vw;
+    }
+    #page1 #tnav #shades #colors #shade1{
+        width: 2vw;
+    }
+    #page1 #tnav #shades #colors #shade2{
+        width: 2vw;
+    }
+    #page1 #tnav #shades #colors #shade3{
+        width: 2vw;
+    }
+    #page1 #tnav #shades #colors #shade4{
+        width: 2vw;
+    }
+    #page1 #tnav #shades #colors #shade5{
+        width: 2vw;
+    }
+    #page1 #tnav #shades #colors #shade6{
+        width: 2vw;
+    }
+    #shades h1 {
+        margin-right: 37px;
+        margin-left: -9vw;
+    }
+    #page2 #bnav img:nth-child(2) {
+        left: 74%;
+    }
+    #page2 #bnav {
+        height: 67.5vw;
+    }
+    #page2 #bnav .count {
+        font-size: 7vw;
+    }
+    #page2 #bnav .text {
+        font-size: 1.8vw;
+    }
+    
+    #page2 #bnav .count {
+        font-size: 10vw;
+    }
+    #page2>h1 {
+        font-size: 107vw;
+    }
+    #page2 #tnav img {
+        width: 25.5vw;
+    }
+    #page2 #tnav {
+       padding: 10vw 9.5vw;
+    }
+    #page1 #bnav {
+       padding: 10px 5px;
+    }
+    #page1 #pinkf {
+        font-size: 47px;
+        bottom: 2%;
+    }
+    #page1 #pinkbox {
+        width: 98vw;
+        height: 95vw;
+    }
+    #page1 #bottom {
+        width: 187%;
+    }
+    #top img {
+        width: 205%;
+    }
+    #page1 #gallery {
+        font-size: 87px;
+        bottom: -6%;
+        left: 100%;
+    }
+    #page1 #circle {
+        transform: translate(-50%,-50%);
+        width: 50vw;
+        height: 50vw;
+    }
+    #page1 #purp1 {
+        width: 14vw;
+        height: 14vw;
+    }
+    #page1 #image img {
+        width: 172%;
+        height: 90vh;
+    }
+    #page1 #cimage {
+        left: 18%;
+        top: 29%;
+        width: 114vw;
+    }
+
+}
