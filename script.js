@@ -155,11 +155,11 @@ tl2.to(".pcircle",{
     scrub:1,
     delay:1,
     ease:Power1,
-    duration:20,
+    duration:18,
     background: `linear-gradient(to right,#D5A7B4, #B4AAD5)`,
 },"b")
 .to("#page2>h1",{
-    delay:80,
+    delay:100,
     ease:Power1,
     duration:1000,
     left:"-400vw",
